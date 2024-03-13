@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 94c3fe9ea6659814090e9fcf917e888a
+  - enabled: 1
+    path: Assets/Scenes/Modular DungeonV3.unity
+    guid: 355052bfb44a6c04e83592e63bd60ab5
+  - enabled: 1
+    path: Assets/Simple Modular Dungeon/Scenes/Modular Dungeon.unity
+    guid: 27915ac565aadf048b89a94d619c501d
+  - enabled: 1
+    path: Assets/Scenes/Dock ThingV3.unity
+    guid: 85ce03ddcc0e0534489492e136872030
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: d938f3c39d29ce346a57281ee2bd0953
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
